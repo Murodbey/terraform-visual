@@ -3,3 +3,7 @@ instance_type       = "t2.micro"
 keyname             = "testkey"
 Name                = "Consul"
 subnet_id           = "subnet-08e62fdb13dc5897b"
+Env                 = "Dev"
+Created_by          = "Murodbey"
+Dept                = "IT"
+count               = 1
